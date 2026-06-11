@@ -1,0 +1,32 @@
+body {
+    background-color: blue;
+}
+
+.presentacion {
+    background-color: green;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.presentacion-titulo {
+    color: darkgreen;
+}
+
+.presentacion-texto {
+    color: lightgreen;
+    margin-bottom: 20px;
+}
+
+.presentacion-boton {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.presentacion-boton:hover {
+    background-color: darkgreen;
+}
